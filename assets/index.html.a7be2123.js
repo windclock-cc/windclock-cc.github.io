@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-8daa1a0e","path":"/","title":"Windclock","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1668050082000,"contributors":[{"name":"windclock-cc","email":"65515734+windclock-cc@users.noreply.github.com","commits":1}]},"filePathRelative":"README.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-530da724","path":"/hardware/","title":"Schematics","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1668050082000,"contributors":[{"name":"windclock-cc","email":"65515734+windclock-cc@users.noreply.github.com","commits":1}]},"filePathRelative":"hardware/README.md"}');export{e as data};

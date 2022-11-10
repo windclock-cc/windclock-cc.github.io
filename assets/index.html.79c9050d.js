@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-fffb8e28","path":"/guide/","title":"Firts steps","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1668050082000,"contributors":[{"name":"windclock-cc","email":"65515734+windclock-cc@users.noreply.github.com","commits":1}]},"filePathRelative":"guide/README.md"}');export{e as data};

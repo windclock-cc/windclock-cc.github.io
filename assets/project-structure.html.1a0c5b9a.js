@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-238fb066","path":"/guide/project-structure.html","title":"Project structure","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1668050082000,"contributors":[{"name":"windclock-cc","email":"65515734+windclock-cc@users.noreply.github.com","commits":1}]},"filePathRelative":"guide/project-structure.md"}');export{t as data};
