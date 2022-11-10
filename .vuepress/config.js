@@ -10,7 +10,7 @@ export default defineUserConfig( {
 	head: [
 	],
 	theme: defaultTheme( {
-		repo: 'https://github.com/windclock-cc',
+		repo: 'https://github.com/windclock-cc/windclock-cc.github.io',
 		navbar: [
 			{
 				text: 'Home',
